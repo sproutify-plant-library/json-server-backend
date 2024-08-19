@@ -1,33 +1,246 @@
 {
-  "projects": [
+  "plants": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "title": "Snake Plant",
+      "subtitle": "Sansevieria trifasciata",
+      "description": "Upright, sword-shaped leaves, air-purifying.",
+      "water": "Low to moderate, allow soil to dry completely.",
+      "sun": "Low to medium, tolerates low light.",
+      "tips": "Wipe leaves occasionally, avoid overwatering.",
+      "type": "Indoor",
+      "maintenance": "Low"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "title": "Pothos",
+      "subtitle": "Epipremnum aureum",
+      "description": "Heart-shaped leaves, trailing vine, easy to grow.",
+      "water": "Moderate, keep soil slightly moist.",
+      "sun": "Low to medium, tolerates low light.",
+      "tips": "Prune regularly, can be propagated from cuttings.",
+      "type": "Indoor",
+      "maintenance": "Low"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "title": "Peace Lily",
+      "subtitle": "Spathiphyllum wallisii",
+      "description": "Glossy leaves, white flowers, air-purifying.",
+      "water": "Moderate, keep soil moist but not soggy.",
+      "sun": "Low to medium, avoid direct sunlight.",
+      "tips": "High humidity beneficial, mist leaves regularly.",
+      "type": "Indoor",
+      "maintenance": "Moderate"
+    },
+    {
+      "id": 4,
+      "title": "ZZ Plant",
+      "subtitle": "Zamioculcas zamiifolia",
+      "description": "Glossy, dark green leaves, very tolerant.",
+      "water": "Low, can tolerate drought.",
+      "sun": "Low to medium, tolerates low light.",
+      "tips": "Avoid overwatering, slow grower.",
+      "type": "Indoor",
+      "maintenance": "Low"
+    },
+    {
+      "id": 5,
+      "title": "African Violet",
+      "subtitle": "Saintpaulia ionantha",
+      "description": "Velvety leaves, colorful flowers.",
+      "water": "Moderate, avoid getting water on leaves.",
+      "sun": "Bright, indirect light, avoid direct sunlight.",
+      "tips": "Use lukewarm water, remove spent flowers.",
+      "type": "Indoor",
+      "maintenance": "Moderate"
+    },
+    {
+      "id": 6,
+      "title": "Orchid",
+      "subtitle": "Orchidaceae",
+      "description": "Diverse variety of shapes and colors, elegant blooms.",
+      "water": "Moderate, depends on specific orchid type.",
+      "sun": "Bright, indirect light, avoid direct sunlight.",
+      "tips": "Special orchid potting mix, high humidity beneficial.",
+      "type": "Indoor",
+      "maintenance": "High"
+    },
+    {
+      "id": 7,
+      "title": "Lavender",
+      "subtitle": "Lavandula",
+      "description": "Aromatic, purple flowers, attracts pollinators.",
+      "water": "Moderate, allow soil to dry slightly between waterings.",
+      "sun": "Full sun.",
+      "tips": "Prune regularly, versatile plant for culinary and medicinal uses.",
+      "type": "Outdoor",
+      "maintenance": "Moderate"
+    },
+    {
+      "id": 8,
+      "title": "Rosemary",
+      "subtitle": "Salvia rosmarinus",
+      "description": "Aromatic, evergreen herb, culinary uses.",
+      "water": "Low to moderate, drought-tolerant.",
+      "sun": "Full sun.",
+      "tips": "Prune to maintain shape, versatile herb.",
+      "type": "Herb",
+      "maintenance": "Moderate"
+    },
+    {
+      "id": 9,
+      "title": "Sunflower",
+      "subtitle": "Helianthus annuus",
+      "description": "Tall, bold flowers, attracts birds and bees.",
+      "water": " Regular, especially during flowering.",
+      "sun": "Full sun.",
+      "tips": "Supports for tall varieties, harvest seeds.",
+      "type": "Outdoor",
+      "maintenance": "Moderate"
+    },
+    {
+      "id": 10,
+      "title": "Rose",
+      "subtitle": "Rosa",
+      "description": "Classic flower, various colors and scents.",
+      "water": "Regular, especially during blooming.",
+      "sun": "Full sun.",
+      "tips": "Prune regularly, protect from pests and diseases.",
+      "type": "Outdoor",
+      "maintenance": "High"
+    },
+    {
+      "id": 11,
+      "title": "Venus Flytrap",
+      "subtitle": "Dionaea muscipula",
+      "description": "Carnivorous plant, traps insects.",
+      "water": "Distilled water, keep soil moist.",
+      "sun": "Full sun.",
+      "tips": "Feed with live insects, avoid fertilizing.",
+      "type": "Indoor",
+      "maintenance": "High"
+    },
+    {
+      "id": 12,
+      "title": "Basil",
+      "subtitle": "Ocimum basilicum",
+      "description": "Aromatic herb, culinary uses.",
+      "water": "Regular, keep soil moist.",
+      "sun": "Full sun.",
+      "tips": "Pinch regularly to promote growth.",
+      "type": "Herb",
+      "maintenance": "Moderate"
+    },
+    {
+      "id": 13,
+      "title": "Aloe Vera ",
+      "subtitle": "Aloe barbadensis miller",
+      "description": "Aloe Vera is a popular succulent known for its medicinal properties. It has thick, fleshy, lance-shaped leaves with serrated edges.",
+      "water": "Low, avoid overwatering.",
+      "sun": "Bright, indirect sunlight.",
+      "tips": " Use well-draining soil, like a cactus or succulent mix, and place in a pot with drainage holes to prevent water from sitting in the soil.",
+      "type": "Succulent",
+      "maintenance": "Moderate"
+    },
+    {
+      "id": 14,
+      "title": "Jade Plant",
+      "subtitle": "Crassula ovata",
+      "description": "The Jade Plant is a popular houseplant with thick, oval-shaped, glossy green leaves. It has a tree-like appearance with a thick, woody stem.",
+      "water": "Less frequent watering.",
+      "sun": "Bright light to full sun.",
+      "tips": "Rotate the plant occasionally to ensure even growth and Prune to maintain shape and remove any leggy growth.",
+      "type": "Succulent",
+      "maintenance": "Low"
+    },
+    {
+      "id": 15,
+      "title": "Echeveria",
+      "subtitle": "Echeveria elegans",
+      "description": "Echeveria is a rosette-forming succulent with fleshy, spoon-shaped leaves that come in various colors, including green, blue, pink, and purple.",
+      "water": "Low, avoid overwatering.",
+      "sun": "Full sun to partial shade.",
+      "tips": "Remove dead leaves from the base to prevent rot and pests.",
+      "type": "Succulent",
+      "maintenance": "Low"
+    },
+    {
+      "id": 16,
+      "title": "Haworthia",
+      "subtitle": "Haworthia fasciata",
+      "description": "Haworthia, also known as Zebra Plant, is a small, rosette-forming succulent with thick, dark green leaves adorned with white, horizontal stripes.",
+      "water": "Low to moderate.",
+      "sun": "Bright, indirect sunlight.",
+      "tips": "Avoid overwatering, which can lead to root rot.",
+      "type": "Succulent",
+      "maintenance": "Low"
+    },
+    {
+      "id": 17,
+      "title": "Sedum",
+      "subtitle": "Sedum morganianum",
+      "description": "Sedum, particularly the Burro's Tail variety, is a trailing succulent with long, cascading stems covered in small, plump, blue-green leaves. ",
+      "water": "Moderate, ensure the top inch of soil is completely dry.",
+      "sun": "Full sun to partial shade.",
+      "tips": "Handle with care, as the leaves are delicate and can fall off easily.",
+      "type": "Succulent",
+      "maintenance": "Low"
+    },
+    {
+      "id": 18,
+      "title": "Mint",
+      "subtitle": "Mentha",
+      "description": "Aromatic herb, culinary and medicinal uses.",
+      "water": "Regular, keep soil moist.",
+      "sun": "Full sun to partial shade.",
+      "tips": "Can be invasive, plant in containers.",
+      "type": "Herb",
+      "maintenance": "Moderate"
+    },
+    {
+      "id": 19,
+      "title": "Parsley",
+      "subtitle": "Petroselinum crispum",
+      "description": "Aromatic herb with finely divided, green leaves. Popular for culinary use.",
+      "water": "Regular watering, keeping soil consistently moist.",
+      "sun": "Full sun to partial shade. Tolerates some shade.",
+      "tips": "Harvest leaves regularly to encourage new growth. Protect from pests like carrot fly.",
+      "type": "Herb",
+      "maintenance": "Moderate"
+    },
+    {
+      "id": 20,
+      "title": "Dill",
+      "subtitle": "Anethum graveolens",
+      "description": "Feathery, aromatic leaves and delicate yellow flowers. Used fresh or dried in cooking.",
+      "water": "Regular watering, especially during hot weather.",
+      "sun": "Full sun for best flavor and growth.",
+      "tips": "Sow seeds directly in the garden. Can be self-seeding. Harvest leaves before flowering for optimal flavor.",
+      "type": "Herb",
+      "maintenance": "Moderate"
+    },
+    {
+      "id": 21,
+      "title": "Hosta",
+      "subtitle": "Hosta spp",
+      "description": "Hostas are shade-tolerant perennials known for their large, attractive foliage, which can range in color from green to blue to variegated.",
+      "water": "Moderate, aim for about an inch of water per week.",
+      "sun": "Partial to full shade.",
+      "tips": "Mulch around the base to keep soil moist and reduce weeds.",
+      "type": "Outdoor",
+      "maintenance": "Low"
+    },
+    {
+      "id": 22,
+      "title": "Hydrangea",
+      "subtitle": "Hydrangea spp.",
+      "description": "Hydrangeas are known for their large, globe-like flower clusters that can be blue, pink, purple, or white.",
+      "water": "Deep and infrequent watering.",
+      "sun": "Partial sun to full sun.",
+      "tips": "Prune according to the variety; some bloom on old wood, while others bloom on new wood.",
+      "type": "Outdoor",
+      "maintenance": "Low"
     }
   ]
 }
