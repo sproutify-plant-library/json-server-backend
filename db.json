@@ -2,6 +2,7 @@
   "plants": [
     {
       "id": 1,
+      "image": "https://images.pexels.com/photos/10467814/pexels-photo-10467814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "title": "Snake Plant",
       "subtitle": "Sansevieria trifasciata",
       "description": "Upright, sword-shaped leaves, air-purifying.",
@@ -14,6 +15,7 @@
     {
       "id": 2,
       "title": "Pothos",
+      "image": "https://images.pexels.com/photos/20075996/pexels-photo-20075996/free-photo-of-close-up-of-a-pothos-plant-in-a-white-pot.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Epipremnum aureum",
       "description": "Heart-shaped leaves, trailing vine, easy to grow.",
       "water": "Moderate, keep soil slightly moist.",
@@ -25,6 +27,7 @@
     {
       "id": 3,
       "title": "Peace Lily",
+      "image": "https://images.pexels.com/photos/12548637/pexels-photo-12548637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Spathiphyllum wallisii",
       "description": "Glossy leaves, white flowers, air-purifying.",
       "water": "Moderate, keep soil moist but not soggy.",
@@ -36,6 +39,7 @@
     {
       "id": 4,
       "title": "ZZ Plant",
+      "image": "https://images.pexels.com/photos/5188783/pexels-photo-5188783.jpeg",
       "subtitle": "Zamioculcas zamiifolia",
       "description": "Glossy, dark green leaves, very tolerant.",
       "water": "Low, can tolerate drought.",
@@ -47,6 +51,7 @@
     {
       "id": 5,
       "title": "African Violet",
+      "image": "https://images.pexels.com/photos/7814297/pexels-photo-7814297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Saintpaulia ionantha",
       "description": "Velvety leaves, colorful flowers.",
       "water": "Moderate, avoid getting water on leaves.",
@@ -58,6 +63,7 @@
     {
       "id": 6,
       "title": "Orchid",
+      "image":"https://images.pexels.com/photos/9130825/pexels-photo-9130825.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Orchidaceae",
       "description": "Diverse variety of shapes and colors, elegant blooms.",
       "water": "Moderate, depends on specific orchid type.",
@@ -69,6 +75,7 @@
     {
       "id": 7,
       "title": "Lavender",
+      "image":"https://images.pexels.com/photos/12652589/pexels-photo-12652589.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Lavandula",
       "description": "Aromatic, purple flowers, attracts pollinators.",
       "water": "Moderate, allow soil to dry slightly between waterings.",
@@ -80,6 +87,7 @@
     {
       "id": 8,
       "title": "Rosemary",
+      "image":"https://images.pexels.com/photos/4750370/pexels-photo-4750370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "subtitle": "Salvia rosmarinus",
       "description": "Aromatic, evergreen herb, culinary uses.",
       "water": "Low to moderate, drought-tolerant.",
@@ -91,6 +99,7 @@
     {
       "id": 9,
       "title": "Sunflower",
+      "image":"https://images.pexels.com/photos/1366630/pexels-photo-1366630.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Helianthus annuus",
       "description": "Tall, bold flowers, attracts birds and bees.",
       "water": " Regular, especially during flowering.",
@@ -102,6 +111,7 @@
     {
       "id": 10,
       "title": "Rose",
+      "image":"https://images.pexels.com/photos/16814880/pexels-photo-16814880/free-photo-of-vermelho-verao-arbusto-moita.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Rosa",
       "description": "Classic flower, various colors and scents.",
       "water": "Regular, especially during blooming.",
@@ -113,6 +123,7 @@
     {
       "id": 11,
       "title": "Venus Flytrap",
+      "image":"https://images.pexels.com/photos/11270339/pexels-photo-11270339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Dionaea muscipula",
       "description": "Carnivorous plant, traps insects.",
       "water": "Distilled water, keep soil moist.",
@@ -124,6 +135,7 @@
     {
       "id": 12,
       "title": "Basil",
+      "image":"https://images.pexels.com/photos/3816343/pexels-photo-3816343.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Ocimum basilicum",
       "description": "Aromatic herb, culinary uses.",
       "water": "Regular, keep soil moist.",
@@ -135,6 +147,7 @@
     {
       "id": 13,
       "title": "Aloe Vera ",
+      "image":"https://images.pexels.com/photos/7318134/pexels-photo-7318134.jpeg?auto=compress&cs=tinysrgb&w=400",
       "subtitle": "Aloe barbadensis miller",
       "description": "Aloe Vera is a popular succulent known for its medicinal properties. It has thick, fleshy, lance-shaped leaves with serrated edges.",
       "water": "Low, avoid overwatering.",
@@ -146,6 +159,7 @@
     {
       "id": 14,
       "title": "Jade Plant",
+      "image":"https://images.pexels.com/photos/6045046/pexels-photo-6045046.jpeg",
       "subtitle": "Crassula ovata",
       "description": "The Jade Plant is a popular houseplant with thick, oval-shaped, glossy green leaves. It has a tree-like appearance with a thick, woody stem.",
       "water": "Less frequent watering.",
@@ -157,6 +171,7 @@
     {
       "id": 15,
       "title": "Echeveria",
+      "image":"https://images.pexels.com/photos/6045054/pexels-photo-6045054.jpeg",
       "subtitle": "Echeveria elegans",
       "description": "Echeveria is a rosette-forming succulent with fleshy, spoon-shaped leaves that come in various colors, including green, blue, pink, and purple.",
       "water": "Low, avoid overwatering.",
@@ -168,6 +183,7 @@
     {
       "id": 16,
       "title": "Haworthia",
+      "image":"https://images.pexels.com/photos/13333392/pexels-photo-13333392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Haworthia fasciata",
       "description": "Haworthia, also known as Zebra Plant, is a small, rosette-forming succulent with thick, dark green leaves adorned with white, horizontal stripes.",
       "water": "Low to moderate.",
@@ -179,6 +195,7 @@
     {
       "id": 17,
       "title": "Sedum",
+      "image":"https://images.pexels.com/photos/5783392/pexels-photo-5783392.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Sedum morganianum",
       "description": "Sedum, particularly the Burro's Tail variety, is a trailing succulent with long, cascading stems covered in small, plump, blue-green leaves. ",
       "water": "Moderate, ensure the top inch of soil is completely dry.",
@@ -190,6 +207,7 @@
     {
       "id": 18,
       "title": "Mint",
+      "image":"https://images.pexels.com/photos/4750374/pexels-photo-4750374.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Mentha",
       "description": "Aromatic herb, culinary and medicinal uses.",
       "water": "Regular, keep soil moist.",
@@ -201,6 +219,7 @@
     {
       "id": 19,
       "title": "Parsley",
+      "image":"https://images.pexels.com/photos/4021617/pexels-photo-4021617.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Petroselinum crispum",
       "description": "Aromatic herb with finely divided, green leaves. Popular for culinary use.",
       "water": "Regular watering, keeping soil consistently moist.",
@@ -212,6 +231,7 @@
     {
       "id": 20,
       "title": "Dill",
+      "image":"https://images.pexels.com/photos/4198113/pexels-photo-4198113.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Anethum graveolens",
       "description": "Feathery, aromatic leaves and delicate yellow flowers. Used fresh or dried in cooking.",
       "water": "Regular watering, especially during hot weather.",
@@ -223,6 +243,7 @@
     {
       "id": 21,
       "title": "Hosta",
+      "image":"https://images.pexels.com/photos/19200758/pexels-photo-19200758/free-photo-of-plantar-planta-folhas-molhado.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Hosta spp",
       "description": "Hostas are shade-tolerant perennials known for their large, attractive foliage, which can range in color from green to blue to variegated.",
       "water": "Moderate, aim for about an inch of water per week.",
@@ -234,6 +255,7 @@
     {
       "id": 22,
       "title": "Hydrangea",
+      "image":"https://images.pexels.com/photos/26652200/pexels-photo-26652200/free-photo-of-natureza-flores-plantar-planta.jpeg",
       "subtitle": "Hydrangea spp.",
       "description": "Hydrangeas are known for their large, globe-like flower clusters that can be blue, pink, purple, or white.",
       "water": "Deep and infrequent watering.",
