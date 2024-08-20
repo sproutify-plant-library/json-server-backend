@@ -4,13 +4,14 @@
       "id": 1,
       "image": "https://images.pexels.com/photos/10467814/pexels-photo-10467814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "title": "Snake Plant",
-      "subtitle": "Sansevieria trifasciata",
+      "subtitle": "Dracaena trifasciata",
       "description": "Upright, sword-shaped leaves, air-purifying.",
       "water": "Low to moderate, allow soil to dry completely.",
       "sun": "Low to medium, tolerates low light.",
       "tips": "Wipe leaves occasionally, avoid overwatering.",
       "type": "Indoor",
-      "maintenance": "Low"
+      "maintenance": "Low",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dracaena_trifasciata"
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "sun": "Low to medium, tolerates low light.",
       "tips": "Prune regularly, can be propagated from cuttings.",
       "type": "Indoor",
-      "maintenance": "Low"
+      "maintenance": "Low",
+      "wiki_link": "https://en.wikipedia.org/wiki/Epipremnum_aureum"
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
       "sun": "Low to medium, avoid direct sunlight.",
       "tips": "High humidity beneficial, mist leaves regularly.",
       "type": "Indoor",
-      "maintenance": "Moderate"
+      "maintenance": "Moderate",
+      "wiki_link": "https://en.wikipedia.org/wiki/Spathiphyllum"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "sun": "Low to medium, tolerates low light.",
       "tips": "Avoid overwatering, slow grower.",
       "type": "Indoor",
-      "maintenance": "Low"
+      "maintenance": "Low",
+      "wiki_link": "https://en.wikipedia.org/wiki/Zamioculcas"
     },
     {
       "id": 5,
@@ -58,7 +62,8 @@
       "sun": "Bright, indirect light, avoid direct sunlight.",
       "tips": "Use lukewarm water, remove spent flowers.",
       "type": "Indoor",
-      "maintenance": "Moderate"
+      "maintenance": "Moderate",
+      "wiki_link": "https://en.wikipedia.org/wiki/Streptocarpus_sect._Saintpaulia"
     },
     {
       "id": 6,
@@ -70,7 +75,8 @@
       "sun": "Bright, indirect light, avoid direct sunlight.",
       "tips": "Special orchid potting mix, high humidity beneficial.",
       "type": "Indoor",
-      "maintenance": "High"
+      "maintenance": "High",
+      "wiki_link": "https://en.wikipedia.org/wiki/Orchid"
     },
     {
       "id": 7,
@@ -82,7 +88,8 @@
       "sun": "Full sun.",
       "tips": "Prune regularly, versatile plant for culinary and medicinal uses.",
       "type": "Outdoor",
-      "maintenance": "Moderate"
+      "maintenance": "Moderate",
+      "wiki_link": "https://en.wikipedia.org/wiki/Lavandula"
     },
     {
       "id": 8,
@@ -94,7 +101,8 @@
       "sun": "Full sun.",
       "tips": "Prune to maintain shape, versatile herb.",
       "type": "Herb",
-      "maintenance": "Moderate"
+      "maintenance": "Moderate",
+      "wiki_link": "https://en.wikipedia.org/wiki/Rosemary"
     },
     {
       "id": 9,
@@ -106,7 +114,8 @@
       "sun": "Full sun.",
       "tips": "Supports for tall varieties, harvest seeds.",
       "type": "Outdoor",
-      "maintenance": "Moderate"
+      "maintenance": "Moderate",
+      "wiki_link": "https://en.wikipedia.org/wiki/Common_sunflower"
     },
     {
       "id": 10,
@@ -118,7 +127,8 @@
       "sun": "Full sun.",
       "tips": "Prune regularly, protect from pests and diseases.",
       "type": "Outdoor",
-      "maintenance": "High"
+      "maintenance": "High",
+      "wiki_link": "https://en.wikipedia.org/wiki/Rose"
     },
     {
       "id": 11,
@@ -130,7 +140,8 @@
       "sun": "Full sun.",
       "tips": "Feed with live insects, avoid fertilizing.",
       "type": "Indoor",
-      "maintenance": "High"
+      "maintenance": "High",
+      "wiki_link": "https://en.wikipedia.org/wiki/Venus_flytrap"
     },
     {
       "id": 12,
@@ -142,7 +153,8 @@
       "sun": "Full sun.",
       "tips": "Pinch regularly to promote growth.",
       "type": "Herb",
-      "maintenance": "Moderate"
+      "maintenance": "Moderate",
+      "wiki_link": "https://en.wikipedia.org/wiki/Basil"
     },
     {
       "id": 13,
@@ -154,7 +166,8 @@
       "sun": "Bright, indirect sunlight.",
       "tips": " Use well-draining soil, like a cactus or succulent mix, and place in a pot with drainage holes to prevent water from sitting in the soil.",
       "type": "Succulent",
-      "maintenance": "Moderate"
+      "maintenance": "Moderate",
+      "wiki_link": "https://en.wikipedia.org/wiki/Aloe_vera"
     },
     {
       "id": 14,
@@ -166,7 +179,8 @@
       "sun": "Bright light to full sun.",
       "tips": "Rotate the plant occasionally to ensure even growth and Prune to maintain shape and remove any leggy growth.",
       "type": "Succulent",
-      "maintenance": "Low"
+      "maintenance": "Low",
+      "wiki_link": "https://en.wikipedia.org/wiki/Crassula_ovata"
     },
     {
       "id": 15,
@@ -178,7 +192,8 @@
       "sun": "Full sun to partial shade.",
       "tips": "Remove dead leaves from the base to prevent rot and pests.",
       "type": "Succulent",
-      "maintenance": "Low"
+      "maintenance": "Low",
+      "wiki_link": "https://en.wikipedia.org/wiki/Echeveria"
     },
     {
       "id": 16,
@@ -190,7 +205,8 @@
       "sun": "Bright, indirect sunlight.",
       "tips": "Avoid overwatering, which can lead to root rot.",
       "type": "Succulent",
-      "maintenance": "Low"
+      "maintenance": "Low",
+      "wiki_link": "https://en.wikipedia.org/wiki/Haworthia"
     },
     {
       "id": 17,
@@ -202,7 +218,8 @@
       "sun": "Full sun to partial shade.",
       "tips": "Handle with care, as the leaves are delicate and can fall off easily.",
       "type": "Succulent",
-      "maintenance": "Low"
+      "maintenance": "Low",
+      "wiki_link": "https://en.wikipedia.org/wiki/Sedum"
     },
     {
       "id": 18,
@@ -214,7 +231,8 @@
       "sun": "Full sun to partial shade.",
       "tips": "Can be invasive, plant in containers.",
       "type": "Herb",
-      "maintenance": "Moderate"
+      "maintenance": "Moderate",
+      "wiki_link": "https://en.wikipedia.org/wiki/Mentha"
     },
     {
       "id": 19,
@@ -226,7 +244,8 @@
       "sun": "Full sun to partial shade. Tolerates some shade.",
       "tips": "Harvest leaves regularly to encourage new growth. Protect from pests like carrot fly.",
       "type": "Herb",
-      "maintenance": "Moderate"
+      "maintenance": "Moderate",
+      "wiki_link": "https://en.wikipedia.org/wiki/Parsley"
     },
     {
       "id": 20,
@@ -238,7 +257,8 @@
       "sun": "Full sun for best flavor and growth.",
       "tips": "Sow seeds directly in the garden. Can be self-seeding. Harvest leaves before flowering for optimal flavor.",
       "type": "Herb",
-      "maintenance": "Moderate"
+      "maintenance": "Moderate",
+      "wiki_link": "https://en.wikipedia.org/wiki/Dill"
     },
     {
       "id": 21,
@@ -250,7 +270,8 @@
       "sun": "Partial to full shade.",
       "tips": "Mulch around the base to keep soil moist and reduce weeds.",
       "type": "Outdoor",
-      "maintenance": "Low"
+      "maintenance": "Low",
+      "wiki_link": "https://en.wikipedia.org/wiki/Hosta"
     },
     {
       "id": 22,
@@ -262,7 +283,8 @@
       "sun": "Partial sun to full sun.",
       "tips": "Prune according to the variety; some bloom on old wood, while others bloom on new wood.",
       "type": "Outdoor",
-      "maintenance": "Low"
+      "maintenance": "Low",
+      "wiki_link": "https://en.wikipedia.org/wiki/Hydrangea"
     }
   ]
 }
