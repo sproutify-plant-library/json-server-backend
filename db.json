@@ -2,8 +2,8 @@
   "plants": [
     {
       "id": 1,
-      "image": "https://images.pexels.com/photos/10467814/pexels-photo-10467814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "title": "Snake Plant",
+      "image": "https://images.pexels.com/photos/10467814/pexels-photo-10467814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Dracaena trifasciata",
       "description": "Upright, sword-shaped leaves, air-purifying.",
       "water": "Low to moderate, allow soil to dry completely.",
@@ -16,7 +16,7 @@
     {
       "id": 2,
       "title": "Pothos",
-      "image": "https://images.pexels.com/photos/20075996/pexels-photo-20075996/free-photo-of-close-up-of-a-pothos-plant-in-a-white-pot.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "image": "https://images.pexels.com/photos/11838530/pexels-photo-11838530.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Epipremnum aureum",
       "description": "Heart-shaped leaves, trailing vine, easy to grow.",
       "water": "Moderate, keep soil slightly moist.",
@@ -29,7 +29,7 @@
     {
       "id": 3,
       "title": "Peace Lily",
-      "image": "https://images.pexels.com/photos/12548637/pexels-photo-12548637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "image": "https://images.pexels.com/photos/5355466/pexels-photo-5355466.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Spathiphyllum wallisii",
       "description": "Glossy leaves, white flowers, air-purifying.",
       "water": "Moderate, keep soil moist but not soggy.",
@@ -133,7 +133,7 @@
     {
       "id": 11,
       "title": "Venus Flytrap",
-      "image":"https://images.pexels.com/photos/11270339/pexels-photo-11270339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "image":"https://images.pexels.com/photos/9769872/pexels-photo-9769872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Dionaea muscipula",
       "description": "Carnivorous plant, traps insects.",
       "water": "Distilled water, keep soil moist.",
@@ -146,7 +146,7 @@
     {
       "id": 12,
       "title": "Basil",
-      "image":"https://images.pexels.com/photos/3816343/pexels-photo-3816343.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "image":"https://images.pexels.com/photos/1437424/pexels-photo-1437424.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Ocimum basilicum",
       "description": "Aromatic herb, culinary uses.",
       "water": "Regular, keep soil moist.",
@@ -237,7 +237,7 @@
     {
       "id": 19,
       "title": "Parsley",
-      "image":"https://images.pexels.com/photos/4021617/pexels-photo-4021617.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "image":"https://images.pexels.com/photos/4021619/pexels-photo-4021619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "subtitle": "Petroselinum crispum",
       "description": "Aromatic herb with finely divided, green leaves. Popular for culinary use.",
       "water": "Regular watering, keeping soil consistently moist.",
